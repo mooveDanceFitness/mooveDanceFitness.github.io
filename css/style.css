@@ -709,7 +709,7 @@ footer p {
 }
 
 /* Responsive */
-@media (max-width: 992px) {
+@media (max-width: 900px) {
   .about-content, .contact-wrapper {
     flex-direction: column;
   }
